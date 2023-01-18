@@ -1,0 +1,178 @@
+career-stats-settings:
+    data:
+        initialVisited: true
+        welcomedSeason: 12
+    schemaVersion: 1
+champ-select:
+    data:
+        skins:
+            112: 112000
+            117: 117000
+            145: 145014
+            164: 164000
+            18: 18001
+            202: 202000
+            21: 21000
+            22: 22011
+            236: 236025
+            268: 268000
+            30: 30000
+            36: 36000
+            37: 37000
+            39: 39000
+            41: 41000
+            498: 498000
+            51: 51000
+            53: 53000
+            67: 67014
+            8: 8000
+            81: 81000
+            9: 9000
+        spells:
+            400:
+            - 4
+            - 12
+            420:
+            - 4
+            - 3
+            430:
+            - 4
+            - 7
+            450:
+            - 3
+            - 32
+    schemaVersion: 1
+clash-tutorial:
+    data:
+        initialized: true
+        version: 1
+    schemaVersion: 1
+custom-spell-selections:
+    data:
+        custom-spell-selections:
+            spell1: 4
+            spell2: 7
+    schemaVersion: 0
+emotes:
+    data:
+        newEmotes:
+        - 3150
+        - 3133
+        - 3917
+    schemaVersion: 1
+event-shop:
+    data:
+        lastSeenTokenBalance: 0
+        lastSeenTokenShopOffersVersion: 574314899
+        lastTimeSeen: "2023-01-12T21:20:41.027Z"
+    schemaVersion: 1
+lol-champ-select:
+    data:
+        championTradeToggleTooltipSeen: true
+        positionSwapToggleTooltipSeen: true
+        reportAndMutingTooltipShown: true
+        runeRecommenderTutorialTipSeen: true
+    schemaVersion: 0
+lol-clash:
+    data:
+        lftPlayerToggleTooltipSeen: true
+    schemaVersion: 0
+lol-collection-champions:
+    data:
+        groupingDropdownKey: ""
+        lastVisitTime: 1674052112440
+        sortingDropdownKey: ""
+        unownedFilter: "none"
+    schemaVersion: 1
+lol-customizer-icons:
+    data:
+        lastVisitTime: 1663429641212
+    schemaVersion: 1
+lol-general:
+    data:
+        uploadCrashReports: true
+    schemaVersion: 0
+lol-home-hubs:
+    data:
+        lunar-revel-embed-2023:
+            introWatched: "true"
+        winterblessed-embed-2022:
+            introWatched: "true"
+        worlds-hub-2022:
+            showSpoilersSchedule: "true"
+    schemaVersion: 1
+lol-honor:
+    data:
+        recallReleaseNotified: true
+    schemaVersion: 1
+lol-leagues:
+    data:
+        FIRST_CHALLENGER_OF_SEASON-RANKED_SOLO_5x5: 13
+        hasSeenFlexRestrictionModal: true
+        last-split-start-modal: 12.300000
+    schemaVersion: 1
+lol-notifications:
+    data:
+        rgmNotificationTimestamp: 1662610623910
+    schemaVersion: 1
+lol-npe-tutorial-path:
+    data:
+        hasSeenTutorialPath: false
+        hasSkippedTutorialPath: false
+        shouldSeeNewPlayerExperience: false
+    schemaVersion: 1
+lol-parties:
+    data:
+        hasSeenOpenPartyFirstExperience: true
+        hasSeenOpenPartyTooltip: true
+    schemaVersion: 1
+lol-player-behavior:
+    data:
+        codeOfConductAccepted: true
+    schemaVersion: 0
+lol-premade-voice:
+    data:
+        autoJoin: true
+        inputMode: "voiceActivity"
+        muteOnConnect: false
+        pushToTalkKey: "[t]"
+        showFirstExperienceInGame: true
+        showFirstExperienceInLCU: false
+    schemaVersion: 1
+lol-profiles:
+    data:
+        ranked-reference-modal-login-seen-for-season: 13
+    schemaVersion: 0
+lol-tft:
+    data:
+        lastTftGameQueueId: 1090
+        previouslySeenSeasons: "TFT7_5_Series,TFT8_Series"
+        seenOfferIds:
+            storeOfferIds:
+            - "3dd06259-0805-40a5-87b7-c66ff8aaf14c"
+            - "10d94ace-65bb-427e-bc9a-363b21c29b08"
+            tacticianOfferIds:
+            - "3180555c-19e9-481f-9715-06a884d6e239"
+    schemaVersion: 1
+lol-tutorial:
+    data:
+        championSelectRunesTooltipSeenCount: 9
+    schemaVersion: 1
+parties-settings:
+    data:
+        Parties:
+            defaultPartyType: "open"
+    schemaVersion: 0
+partiesPositionPreferences:
+    data:
+        firstPreference: "BOTTOM"
+        secondPreference: "MIDDLE"
+    schemaVersion: 0
+ranked-eos-notification-12-RANKED_SOLO_5x5-SEASON_ENDED:
+    data:
+        notificationShown: true
+    schemaVersion: 1
+yourshop:
+    data:
+        lastViewedTimestamp: "2022-12-14T23:44:14.763Z"
+    schemaVersion: 1

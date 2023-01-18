@@ -171,10 +171,10 @@ page-settings:
             subStyleId: 8200
         perShardPerkBooks:
             la2:
-                currentPageId: 194035507
+                currentPageId: 936946953
                 pages:
                 -   autoModifiedSelections: []
-                    current: true
+                    current: false
                     id: 194035507
                     isActive: false
                     isDeletable: true
@@ -182,7 +182,7 @@ page-settings:
                     isRecommendationOverride: false
                     isTemporary: false
                     isValid: true
-                    lastModified: 1674067666663
+                    lastModified: 1674070698114
                     name: "qw"
                     order: 0
                     primaryStyleId: 8000
