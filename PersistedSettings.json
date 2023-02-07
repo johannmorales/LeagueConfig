@@ -9,7 +9,7 @@
                     "settings": [
                         {
                             "name": "ColorBrightness",
-                            "value": "0.5000"
+                            "value": "0.7500"
                         },
                         {
                             "name": "ColorContrast",
@@ -55,7 +55,7 @@
                     "settings": [
                         {
                             "name": "ColorPalette",
-                            "value": "0"
+                            "value": "1"
                         }
                     ]
                 },
@@ -76,7 +76,7 @@
                         },
                         {
                             "name": "Experience_Enabled",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "Gold_Enabled",
@@ -129,7 +129,7 @@
                         },
                         {
                             "name": "CursorScale",
-                            "value": "0.5000"
+                            "value": "2.5000"
                         },
                         {
                             "name": "EnableAudio",
@@ -137,7 +137,7 @@
                         },
                         {
                             "name": "EnableLeftMouseButtonAttackMove",
-                            "value": "1"
+                            "value": "0"
                         },
                         {
                             "name": "EnableScreenShake",
@@ -161,7 +161,7 @@
                         },
                         {
                             "name": "RecommendJunglePaths",
-                            "value": "1"
+                            "value": "0"
                         },
                         {
                             "name": "RelativeTeamColors",
@@ -169,15 +169,15 @@
                         },
                         {
                             "name": "ShowTurretRangeIndicators",
-                            "value": "1"
+                            "value": "0"
                         },
                         {
                             "name": "SnapCameraOnRespawn",
-                            "value": "1"
+                            "value": "0"
                         },
                         {
                             "name": "TargetChampionsOnlyAsToggle",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "ThemeMusic",
@@ -202,7 +202,7 @@
                         },
                         {
                             "name": "ChatScale",
-                            "value": "100"
+                            "value": "50"
                         },
                         {
                             "name": "DeathRecapScale",
@@ -210,7 +210,7 @@
                         },
                         {
                             "name": "DisableHudSpellClick",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "DrawHealthBars",
@@ -218,7 +218,7 @@
                         },
                         {
                             "name": "EmotePopupUIDisplayMode",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "EmoteSize",
@@ -249,12 +249,8 @@
                             "value": "1.0000"
                         },
                         {
-                            "name": "GlobalScaleReplay",
-                            "value": "1.0000"
-                        },
-                        {
                             "name": "HideEnemySummonerEmotes",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "KeyboardScrollSpeed",
@@ -278,7 +274,7 @@
                         },
                         {
                             "name": "MinimapScale",
-                            "value": "2.5500"
+                            "value": "4.0000"
                         },
                         {
                             "name": "MirroredScoreboard",
@@ -294,19 +290,11 @@
                         },
                         {
                             "name": "ObjectiveVoteScale",
-                            "value": "1.0000"
+                            "value": "0.9900"
                         },
                         {
                             "name": "PracticeToolScale",
                             "value": "1.0000"
-                        },
-                        {
-                            "name": "ReplayMiddleMouseScrollSpeed",
-                            "value": "0.5000"
-                        },
-                        {
-                            "name": "ReplayScrollSmoothingEnabled",
-                            "value": "1"
                         },
                         {
                             "name": "ScrollSmoothingEnabled",
@@ -314,11 +302,11 @@
                         },
                         {
                             "name": "ShopScale",
-                            "value": "0.4444"
+                            "value": "0.5000"
                         },
                         {
                             "name": "ShowAllChannelChat",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "ShowAllChannelChatSpectator",
@@ -362,11 +350,11 @@
                         },
                         {
                             "name": "ShowSpellCosts",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "ShowSpellRecommendations",
-                            "value": "1"
+                            "value": "0"
                         },
                         {
                             "name": "ShowStatsPanel_StatStones",
@@ -374,11 +362,11 @@
                         },
                         {
                             "name": "ShowSummonerNames",
-                            "value": "2"
+                            "value": "1"
                         },
                         {
                             "name": "ShowSummonerNamesInScoreboard",
-                            "value": "1"
+                            "value": "0"
                         },
                         {
                             "name": "ShowTeamFramesOnLeft",
@@ -386,7 +374,7 @@
                         },
                         {
                             "name": "ShowTimestamps",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "SmartCastOnKeyRelease",
@@ -411,7 +399,7 @@
                         },
                         {
                             "name": "CurrentTab",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "InventoryPanelPinned",
@@ -505,7 +493,7 @@
                         },
                         {
                             "name": "AnnouncerVolume",
-                            "value": "0.7500"
+                            "value": "0.2100"
                         },
                         {
                             "name": "MasterMute",
@@ -513,11 +501,11 @@
                         },
                         {
                             "name": "MasterVolume",
-                            "value": "1.0000"
+                            "value": "0.5000"
                         },
                         {
                             "name": "MusicMute",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "MusicVolume",
@@ -529,7 +517,7 @@
                         },
                         {
                             "name": "PingsVolume",
-                            "value": "0.7500"
+                            "value": "0.4500"
                         },
                         {
                             "name": "SfxMute",
@@ -537,7 +525,7 @@
                         },
                         {
                             "name": "SfxVolume",
-                            "value": "0.7500"
+                            "value": "0.9900"
                         },
                         {
                             "name": "VoiceMute",
@@ -611,7 +599,7 @@
                         },
                         {
                             "name": "evtChampionOnly",
-                            "value": "[Button 5]"
+                            "value": "[Button 5],[Button 5]"
                         },
                         {
                             "name": "evtChatHistory",
@@ -646,10 +634,6 @@
                             "value": "[Ctrl][5]"
                         },
                         {
-                            "name": "evtEnableFPSCamera",
-                            "value": "[<Unbound>]"
-                        },
-                        {
                             "name": "evtLevelSpell1",
                             "value": "[Ctrl][q]"
                         },
@@ -667,11 +651,11 @@
                         },
                         {
                             "name": "evtNormalCastAvatarSpell1",
-                            "value": ""
+                            "value": "[Shift][d]"
                         },
                         {
                             "name": "evtNormalCastAvatarSpell2",
-                            "value": ""
+                            "value": "[Shift][f]"
                         },
                         {
                             "name": "evtNormalCastItem1",
@@ -699,19 +683,19 @@
                         },
                         {
                             "name": "evtNormalCastSpell1",
-                            "value": ""
+                            "value": "[Shift][q]"
                         },
                         {
                             "name": "evtNormalCastSpell2",
-                            "value": ""
+                            "value": "[Shift][w]"
                         },
                         {
                             "name": "evtNormalCastSpell3",
-                            "value": ""
+                            "value": "[Shift][e]"
                         },
                         {
                             "name": "evtNormalCastSpell4",
-                            "value": ""
+                            "value": "[Shift][r]"
                         },
                         {
                             "name": "evtNormalCastVisionItem",
@@ -731,7 +715,7 @@
                         },
                         {
                             "name": "evtPlayerAttackMove",
-                            "value": "[Button 2]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtPlayerAttackMoveClick",
@@ -751,7 +735,7 @@
                         },
                         {
                             "name": "evtPlayerMoveClick",
-                            "value": "[Button 2],[Shift][Button 2]"
+                            "value": "[Button 2]"
                         },
                         {
                             "name": "evtPlayerPingAllIn",
@@ -759,7 +743,7 @@
                         },
                         {
                             "name": "evtPlayerPingAreaIsWarded",
-                            "value": "[/]"
+                            "value": "[h]"
                         },
                         {
                             "name": "evtPlayerPingBait",
@@ -855,23 +839,23 @@
                         },
                         {
                             "name": "evtSelectAlly1",
-                            "value": "[F2]"
+                            "value": "[F1]"
                         },
                         {
                             "name": "evtSelectAlly2",
-                            "value": "[F3]"
+                            "value": "[F2]"
                         },
                         {
                             "name": "evtSelectAlly3",
-                            "value": "[F4]"
+                            "value": "[F3]"
                         },
                         {
                             "name": "evtSelectAlly4",
-                            "value": "[F5]"
+                            "value": "[F4]"
                         },
                         {
                             "name": "evtSelectSelf",
-                            "value": "[F1]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtSelfCastAvatarSpell1",
@@ -926,6 +910,18 @@
                             "value": "[Alt][4]"
                         },
                         {
+                            "name": "evtSetVisibilityTeam1",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSetVisibilityTeam2",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSetVisibilityTeamNone",
+                            "value": "[<Unbound>]"
+                        },
+                        {
                             "name": "evtShowCharacterMenu",
                             "value": "[c]"
                         },
@@ -947,11 +943,11 @@
                         },
                         {
                             "name": "evtSmartCastAvatarSpell1",
-                            "value": "[Shift][d]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtSmartCastAvatarSpell2",
-                            "value": "[Shift][f]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtSmartCastItem1",
@@ -979,19 +975,19 @@
                         },
                         {
                             "name": "evtSmartCastSpell1",
-                            "value": "[Shift][q]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtSmartCastSpell2",
-                            "value": "[Shift][w]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtSmartCastSpell3",
-                            "value": "[Shift][e]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtSmartCastSpell4",
-                            "value": "[Shift][r]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtSmartCastVisionItem",
@@ -1158,6 +1154,10 @@
                             "value": "[Esc]"
                         },
                         {
+                            "name": "evtTFTCycleCombatRecapMode",
+                            "value": "[<Unbound>]"
+                        },
+                        {
                             "name": "evtToggleMinionHealthBars",
                             "value": ""
                         },
@@ -1200,7 +1200,7 @@
                     "settings": [
                         {
                             "name": "evntHudMoveableSelect",
-                            "value": "[Button 1],[Shift][Button 1]"
+                            "value": "[Button 3]"
                         },
                         {
                             "name": "evtHoldShowScoreBoard",
@@ -1208,7 +1208,7 @@
                         },
                         {
                             "name": "evtOnUIMouse1",
-                            "value": "[Button 1], [Shift][Button 1]"
+                            "value": "[Button 1], [Button 3]"
                         },
                         {
                             "name": "evtOnUIMouse2",
@@ -1229,6 +1229,15 @@
                         {
                             "name": "evtTogglePlayerStats",
                             "value": "[Ctrl][c]"
+                        }
+                    ]
+                },
+                {
+                    "name": "MouseSettings",
+                    "settings": [
+                        {
+                            "name": "RollerButtonSpeed",
+                            "value": "0"
                         }
                     ]
                 },
