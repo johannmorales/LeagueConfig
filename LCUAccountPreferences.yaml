@@ -1,128 +1,86 @@
 career-stats-settings:
     data:
         initialVisited: true
-        welcomedSeason: 13
+        welcomedSeason: 10
     schemaVersion: 1
 champ-select:
     data:
         skins:
-            10: 10000
-            104: 104000
-            107: 107000
-            11: 11000
-            111: 111000
-            112: 112005
-            115: 115000
-            117: 117000
-            12: 12000
-            121: 121000
-            127: 127000
-            133: 133000
-            134: 134000
-            136: 136000
-            141: 141000
-            142: 142000
-            143: 143000
+            1: 1000
+            107: 107008
+            119: 119000
+            131: 131027
+            145: 145000
             164: 164000
-            166: 166000
-            17: 17000
-            18: 18006
-            202: 202005
-            21: 21000
-            22: 22000
-            221: 221000
-            222: 222000
-            223: 223000
-            234: 234000
-            235: 235000
-            240: 240000
-            266: 266000
-            267: 267041
-            27: 27005
-            28: 28000
-            29: 29000
-            32: 32000
-            34: 34000
-            36: 36000
-            360: 360000
-            39: 39000
-            41: 41000
-            42: 42006
-            421: 421000
-            427: 427000
-            429: 429000
-            43: 43000
-            497: 497000
-            5: 5000
-            50: 50000
-            51: 51013
-            53: 53004
-            58: 58018
-            64: 64000
-            69: 69008
-            74: 74000
-            76: 76000
-            79: 79000
-            80: 80000
-            897: 897001
-            9: 9000
-            91: 91000
-            98: 98003
+            18: 18000
+            22: 22011
+            236: 236000
+            267: 267000
+            360: 360020
+            412: 412000
+            517: 517000
+            54: 54000
+            58: 58000
+            61: 61000
+            8: 8000
+            81: 81003
+            876: 876000
+            99: 99000
         spells:
             400:
             - 4
-            - 7
+            - 14
             420:
+            - 11
+            - 4
+            440:
             - 4
             - 14
-            430:
+            450:
             - 4
-            - 14
-            900:
-            - 4
-            - 6
+            - 32
     schemaVersion: 1
-custom-spell-selections:
+clash-tutorial:
     data:
-        custom-spell-selections:
-            spell1: 4
-            spell2: 3
-    schemaVersion: 0
+        initialized: true
+        version: 1
+    schemaVersion: 1
+emotes:
+    data:
+        newEmotes:
+        - 3209
+        - 3567
+        - 3158
+    schemaVersion: 1
 event-shop:
     data:
-        lastSeenTokenBalance: 1940
+        lastSeenTokenBalance: 0
         lastSeenTokenShopOffersVersion: 1602295892
-        lastTimeSeen: "2023-02-07T13:54:26.447Z"
-    schemaVersion: 1
-lol-challenges-latest-level-up:
-    data:
-        lastLevelUpTime: 1675697181652
+        lastTimeSeen: "2023-02-04T18:01:22.751Z"
     schemaVersion: 1
 lol-champ-select:
     data:
         championTradeToggleTooltipSeen: true
+        lftPlayerToggleTooltip: true
         positionSwapToggleTooltipSeen: true
         reportAndMutingTooltipShown: true
         runeRecommenderTutorialTipSeen: true
     schemaVersion: 0
+lol-clash:
+    data:
+        clash-login-modal-seen: true
+        clash-start-modal-seen: true
+    schemaVersion: 1
 lol-collection-champions:
     data:
-        groupingDropdownKey: "allChampions"
-        lastVisitTime: 1675483993247
+        groupingDropdownKey: "role"
+        lastVisitTime: 1675556308826
         sortingDropdownKey: "firstLetterAscending"
         unownedFilter: "none"
     schemaVersion: 1
 lol-customizer-icons:
     data:
-        lastVisitTime: 1675483952054
-    schemaVersion: 1
-lol-customizer-titles:
-    data:
-        lastVisitTime: 1675294926252
-    schemaVersion: 1
-lol-customizer-tokens:
-    data:
-        lastVisitTime: 1675294959238
+        lastVisitTime: 1670819459102
     schemaVersion: 1
 lol-general:
     data:
@@ -130,9 +88,12 @@ lol-general:
     schemaVersion: 0
 lol-home-hubs:
     data:
-        lunar-revel-embed-2023:
-            introThemeSelectWatched: "true"
+        anima-squad-hub-2022:
+            watchedIntro: true
+        winterblessed-embed-2022:
             introWatched: "true"
+        worlds-hub-2022:
+            introSkinLineWatched: "true"
     schemaVersion: 1
 lol-honor:
     data:
@@ -140,10 +101,18 @@ lol-honor:
     schemaVersion: 1
 lol-leagues:
     data:
-        FIRST_CHALLENGER_OF_SEASON-RANKED_FLEX_SR: 13
-        FIRST_CHALLENGER_OF_SEASON-RANKED_SOLO_5x5: 13
         hasSeenFlexRestrictionModal: true
-        last-split-start-modal: 13.100000
+        last-split-end-notification: 12.300000
+        season-start-takeover:
+            season: 10
+    schemaVersion: 1
+lol-loot:
+    data:
+        mythicEssenceNavigationTooltipSeen: true
+    schemaVersion: 1
+lol-notifications:
+    data:
+        rgmNotificationTimestamp: 1650957251371
     schemaVersion: 1
 lol-npe-tutorial-path:
     data:
@@ -173,16 +142,55 @@ lol-profiles:
     data:
         ranked-reference-modal-login-seen-for-season: 13
     schemaVersion: 0
+lol-skins-viewer:
+    data:
+        groupingDropdownKey: "myCollection"
+        lastVisitTime: 1670819586643
+        sortingDropdownKey: "acquisitionDate"
+        unownedFilter: false
+    schemaVersion: 2
 lol-tft:
     data:
-        previouslySeenSeasons: "TFT8_Series"
+        lastTftGameQueueId: 1090
+        previouslySeenSeasons: "S4_Fates-pass,TFT6_Act2_Series,TFT7_Series,TFT7_5_Series,TFT8_Series"
+        seenOfferIds:
+            storeOfferIds:
+            - "12e017ff-0e2a-4201-9ab2-bc037707250d"
+            - "efc84cfc-8ef3-449c-8ee9-fe33c9bd835c"
+            tacticianOfferIds:
+            - "3e5e9d55-ddd2-40be-874c-d20236b4318c"
     schemaVersion: 1
 lol-tutorial:
     data:
-        championSelectRunesTooltipSeenCount: 10
+        championSelectRunesTooltipSeenCount: 9
+        perksCreateNewPageSeen: true
+        perksPresetPagesSeen: true
+        perksPrimaryPathSeen: true
+        perksStatModsSeen: true
     schemaVersion: 1
+parties-settings:
+    data:
+        Parties:
+            defaultPartyType: "closed"
+    schemaVersion: 0
 partiesPositionPreferences:
     data:
-        firstPreference: "BOTTOM"
-        secondPreference: "UTILITY"
+        firstPreference: "JUNGLE"
+        secondPreference: "MIDDLE"
     schemaVersion: 0
+personalized-offers:
+    data:
+        lastViewedTimestamp: "2022-04-30T00:27:14.052Z"
+    schemaVersion: 1
+ranked-eos-notification-12-RANKED_SOLO_5x5-SEASON_ENDED:
+    data:
+        notificationShown: true
+    schemaVersion: 1
+ranked-eos-notification-12-RANKED_SOLO_5x5-SECOND_WARNING:
+    data:
+        notificationShown: true
+    schemaVersion: 1
+yourshop:
+    data:
+        lastViewedTimestamp: "2022-12-20T05:42:04.898Z"
+    schemaVersion: 1
